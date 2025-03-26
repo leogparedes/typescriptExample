@@ -1,0 +1,16 @@
+{
+  "name": "typescriptexample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "keywords": [],
+  "author": "Leonardo Gonzalez",
+  "license": "ISC",
+  "description": "basic of typescript",
+  "dependencies": {
+    "axios": "^1.8.4"
+  }
+}
